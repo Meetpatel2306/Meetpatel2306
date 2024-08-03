@@ -3,18 +3,16 @@
   <img src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA" alt="Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetpatel2306&label=Profile%20views&color=0e75b6&style=flat" alt="meetpatel2306" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meetpatel2306" alt="meetpatel2306" /></a> </p>
 <p align="left"> <a href="https://twitter.com/meetpatel_mp23" target="blank"><img src="https://img.shields.io/twitter/follow/meetpatel_mp23?logo=twitter&style=for-the-badge" alt="meetpatel_mp23" /></a> </p>
-🌱 I’m currently learning Data Analysis
+🌱 I’m currently learning Machine Learning
 
-💬 Ask me about Python, Power BI, Excel, MySQL
+💬 Ask me about Python
 
 📫 How to reach me meetpatel4384@gmail.com
 
-📄 Know about my experiences https://drive.google.com/open?id=13RwKWXiQlX4XFcEaLyiMRtpdzh-vxvUw&usp=drive_fs
-
+📄 Know about my experiences https://drive.google.com/file/d/15SjKhOe5ZDb4W5N0Z9z64R_lkb8emC6d/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meetpatel_mp23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meetpatel_mp23" height="30" width="40" /></a>
