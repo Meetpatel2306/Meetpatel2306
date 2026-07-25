@@ -1,16 +1,19 @@
 <!-- ============================================= -->
 <!--                    HEADER                     -->
 <!-- ============================================= -->
- 
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&height=70&lines=Python+Backend+Developer;FastAPI+%7C+Celery+%7C+RabbitMQ+%7C+Redis;Scalable+%26+real-time+distributed+systems;AI+%2F+RAG+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&height=70&lines=AI+Engineer+%E2%80%94+LLM+Agents%2C+RAG+%26+Python+Backend;Production+MCP+tool-calling+agent+(30%2B+tools);FastAPI+%7C+Kafka+%7C+ClickHouse+%7C+Redis;Systems+that+run+in+production%2C+not+demos" alt="Typing SVG" />
 </div>
+
 <h1 align="center">Hi, I'm Meet Patel 👋</h1>
- 
+
 <p align="center">
-  <b>Python Backend Developer</b> &nbsp;·&nbsp; Ahmedabad, India 🇮🇳<br/>
-  I build <b>scalable backend services</b>, <b>real-time monitoring &amp; alerting pipelines</b>, and <b>AI-powered applications</b>.
+  <b>AI Engineer — LLM Agents, RAG & Python Backend</b> &nbsp;·&nbsp; Ahmedabad, India 🇮🇳<br/>
+  I build <b>production LLM systems</b> — a tool-calling agent over the <b>Model Context Protocol (MCP)</b>,
+  <b>RAG pipelines</b>, and the <b>FastAPI / Kafka / ClickHouse</b> backends they run on.
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/meet-patel-34399b286/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,127 +24,121 @@
   <a href="https://x.com/meetpatel_mp23">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://drive.google.com/file/d/15SjKhOe5ZDb4W5N0Z9z64R_lkb8emC6d/view?usp=drive_link">
+  <a href="TODO-RESUME-LINK">
     <img src="https://img.shields.io/badge/Resume-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
+
 ---
- 
-<!-- ============================================= -->
-<!--                   ABOUT ME                    -->
-<!-- ============================================= -->
- 
+
 ## 👨‍💻 About Me
- 
-I'm a **Python Backend Developer** who builds systems that are **fast, reliable, and observable**. I work across the full backend lifecycle — **API design**, **asynchronous processing**, **caching**, and **production monitoring** — and I care about writing **clean, maintainable, production-grade code** that holds up under real-world load.
- 
-- 🎓 **B.E. in Information Technology** — LDRP Institute of Technology & Research (LDRP-ITR)
-- 💬 **Ask me about** — Python, FastAPI, distributed systems & backend architecture
+
+I'm an **AI Engineer** with **1.5+ years of production experience** building agentic LLM applications and the
+distributed backends underneath them. At work I own systems end-to-end — from **agent design and RAG retrieval**
+to **Kafka pipelines, ClickHouse analytics, and production monitoring** — for international clients.
+
+- 🤖 **What I've shipped** — a production **ReAct agent planning over 30+ typed tools via MCP servers**, streaming to the UI over SSE, running against **OpenAI, Anthropic, Gemini and self-hosted Mistral** behind one interface
+- ⚡ **At scale** — a real-time alerting pipeline (**Alertmanager → Kafka → ClickHouse**) sustaining **thousands of alerts/day at sub-5-second latency**
+- 🎓 **B.E. Information Technology** — LDRP-ITR, CGPA 8.10
+- 💬 **Ask me about** — LLM agents, MCP, RAG, LangChain, FastAPI, Kafka, ClickHouse
 - 📫 **Reach me** — meetpatel4384@gmail.com
+
 ---
- 
-<!-- ============================================= -->
-<!--               WHY WORK WITH ME                -->
-<!-- ============================================= -->
- 
-## ⭐ Why Work With Me
- 
-> A backend engineer who ships **production-grade, scalable systems** — and makes the team around them better.
- 
-- 🚀 **Production-Grade Backend Engineering** — Design and ship **scalable REST APIs and services** with **Python & FastAPI** that stay reliable under real-world load.
-- ⚡ **Real-Time & Distributed Systems** — Build **real-time alerting pipelines** and **asynchronous background processing** with **Celery**, **RabbitMQ**, and **Redis**.
-- 📊 **Observability-First Mindset** — Implement **monitoring, metrics, and dashboards** with **Prometheus** & **Grafana** so problems are caught *before* users feel them.
-- 🗄️ **Data at Scale** — Engineer **high-volume, analytical workloads** with **ClickHouse** alongside relational databases.
-- 🔐 **Secure by Design** — Build **authentication systems** and **role-based access control (RBAC)** for **enterprise applications**.
-- 🤖 **AI-Capable** — Apply **Retrieval-Augmented Generation (RAG)** to turn raw documents into intelligent, queryable knowledge.
-- 🌍 **Client-Facing & Dependable** — Work directly with **international clients** to turn requirements into solutions and deliver **production support** for live systems.
-- 🧑‍🏫 **A Force-Multiplier on Teams** — **Mentor junior developers & interns** through **code reviews** and hands-on technical guidance.
+
+## ⭐ What I Bring
+
+> An engineer who ships **production LLM systems** — and the backend infrastructure that keeps them fast, cheap, and observable.
+
+- 🤖 **Agentic LLM Engineering** — ReAct loops, **tool calling over MCP**, multi-step planning, **embedding-based tool retrieval**, graph-based root-cause correlation over live network topology
+- 📚 **RAG That's Grounded** — chunking, embeddings, **FAISS vector search**, multi-document Q&A on **self-hosted models (Ollama/Mistral)** — inference fully local when it needs to be
+- 🔀 **Multi-Provider by Design** — OpenAI, Anthropic, Gemini and self-hosted models behind one interface, with streaming (SSE/WebSockets) end to end
+- 🚀 **Production Backend Engineering** — scalable **FastAPI** services, async processing with **Celery/Redis**, high-volume analytics on **ClickHouse**
+- 📊 **Observability-First** — **Prometheus, Grafana, VictoriaMetrics**: 100+ metrics across 1,000+ devices, dashboards before users feel problems
+- 🔐 **Secure by Design** — **Ed25519-signed air-gapped licensing**, AES-256-GCM at rest, **RADIUS/AAA**, site-scoped **RBAC** for multi-tenant platforms
+- 🌍 **Client-Facing & Dependable** — direct requirement-to-delivery work with international clients, production incident support, intern mentoring
+
 ---
- 
-<!-- ============================================= -->
-<!--                  TECH STACK                   -->
-<!-- ============================================= -->
- 
+
 ## 🛠️ Tech Stack
- 
-**Languages**
- 
+
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-512BD4?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_·_Mistral-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Languages & Backend**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-**Backend & APIs**
- 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data, Messaging & Caching**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
- 
-**Databases & Caching**
- 
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
- 
-**Observability & Monitoring**
- 
+
+**Observability & DevOps**
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
- 
-**AI / ML**
- 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-512BD4?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
- 
-**Tools & DevOps**
- 
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logo=victoriametrics&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- 
+
 ---
- 
-<!-- ============================================= -->
-<!--               FEATURED PROJECTS               -->
-<!-- ============================================= -->
- 
+
 ## 📌 Featured Projects
- 
-### 🤖 PDF Chatbot — Retrieval-Augmented Generation (RAG)
- 
-> An **intelligent document Q&A assistant** that lets users chat with their PDFs. Built with **RAG** to combine **semantic search** over document content with **LLM-generated answers**, returning accurate, **context-aware responses grounded in the source material**.
+
+### 🤖 PDF Chatbot — Retrieval-Augmented Generation over PDFs
+
+> Chat with your documents, **fully locally**. Chunks and embeds PDFs into a **FAISS index** and serves grounded,
+> multi-document answers through **FastAPI** with a **self-hosted Mistral** — sub-second retrieval, zero data leaving the machine.
 >
-> **Tech:** `Python` · `RAG` · `LLMs` · `Vector Search`
-> &nbsp; → [View Repository](https://github.com/meetpatel2306)
- 
-### 🚗 URide — Carpooling Platform
- 
-> A **full-featured carpooling web platform** that connects drivers and riders heading the same way. Built with **Django** and modern web technologies, featuring **ride matching**, **user management**, and a clean **booking flow**.
+> **Tech:** `Python` · `FastAPI` · `FAISS` · `Ollama (Mistral)` · `RAG`
+> &nbsp; → [View Repository](TODO-PDF-CHATBOT-REPO-LINK)
+
+### 🎵 BeatStream — Music Streaming Backend
+
+> A production-style streaming backend: **JWT-authenticated REST APIs**, **HTTP range-request audio streaming**
+> (seek without download), and a **server-side recommendation engine** (Daily Mixes, Time Capsule) driven by listening signals.
 >
-> **Tech:** `Django` · `Python` · `Web`
-> &nbsp; → [View Repository](https://github.com/meetpatel2306)
- 
+> **Tech:** `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `SQLAlchemy`
+> &nbsp; → [View Repository](TODO-BEATSTREAM-REPO-LINK)
+
+### 🔭 At work (closed-source, happy to talk through the architecture)
+
+> A **production MCP tool-calling agent** (30+ typed tools, multi-provider, SSE streaming, topology-graph root-cause analysis),
+> a **TR-069/CWMP auto-configuration server built from scratch**, an **air-gapped Ed25519 licensing platform**,
+> and a **Kafka → ClickHouse alerting pipeline** at sub-5s end-to-end latency.
+
+### 🧪 Building in public — up next
+
+> **LLM Evals Harness** (groundedness scoring + CI regression gates) → **LLM cost-routing gateway** → **LoRA fine-tune vs base-model eval**.
+> Watch this space.
+
 ---
- 
-<!-- ============================================= -->
-<!--          ACHIEVEMENTS & CERTIFICATIONS        -->
-<!-- ============================================= -->
- 
+
 ## 🏆 Achievements & Certifications
- 
-- 🥇 **Finalist — Odoo Combat 2024** · a **national-level hackathon** organized by Odoo
+
+- 🥇 **Finalist — Odoo Combat 2024** · national-level hackathon by Odoo
 - 📜 **NPTEL Certification** · *Python for Data Science*
+
 ---
- 
-<!-- ============================================= -->
-<!--                 CONNECT WITH ME               -->
-<!-- ============================================= -->
- 
+
 ## 🤝 Let's Connect
- 
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/meet-patel-34399b286/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -152,6 +149,7 @@ I'm a **Python Backend Developer** who builds systems that are **fast, reliable,
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
 <div align="center">
-  <b>⭐️ Open to Backend &amp; AI Engineering roles</b> — let's build something <b>reliable</b> and <b>scalable</b> together.
+  <b>⭐️ Open to AI Engineering & Backend roles</b> — production LLM systems are my home ground. Let's build.
 </div>
