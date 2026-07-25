@@ -24,7 +24,7 @@
   <a href="https://x.com/meetpatel_mp23">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="TODO-RESUME-LINK">
+  <a href="https://drive.google.com/file/d/15SjKhOe5ZDb4W5N0Z9z64R_lkb8emC6d/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
@@ -106,15 +106,24 @@ to **Kafka pipelines, ClickHouse analytics, and production monitoring** — for 
 > multi-document answers through **FastAPI** with a **self-hosted Mistral** — sub-second retrieval, zero data leaving the machine.
 >
 > **Tech:** `Python` · `FastAPI` · `FAISS` · `Ollama (Mistral)` · `RAG`
-> &nbsp; → [View Repository](TODO-PDF-CHATBOT-REPO-LINK)
+> &nbsp; → [View Repository](https://github.com/Meetpatel2306/rag-chatbot)
 
-### 🎵 BeatStream — Music Streaming Backend
+### 📮 Reach.io — AI Job-Outreach Platform
 
-> A production-style streaming backend: **JWT-authenticated REST APIs**, **HTTP range-request audio streaming**
-> (seek without download), and a **server-side recommendation engine** (Daily Mixes, Time Capsule) driven by listening signals.
+> A full-stack product built end-to-end: **AI-personalised application emails** (Gemini with Groq fallback),
+> **Google-grounded job discovery** with a saved-leads pipeline, **one-click apply** with automatic resume selection,
+> and **threaded follow-ups** with Gmail reply detection. Encrypted per-user keys · PWA · deployed on Vercel.
 >
-> **Tech:** `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `SQLAlchemy`
-> &nbsp; → [View Repository](TODO-BEATSTREAM-REPO-LINK)
+> **Tech:** `Next.js` · `TypeScript` · `Gemini` · `Gmail API` · `Redis/KV`
+> &nbsp; → [View Repository](https://github.com/Meetpatel2306/reach-io)
+
+### 🤵 AI Job-Search Agent — ReAct Tool-Calling Loop
+
+> An autonomous agent that finds live openings, researches companies, and scores your resume against them —
+> reasoning step-by-step over real tools in a **ReAct loop**.
+>
+> **Tech:** `Python` · `FastAPI` · `ReAct` · `Tool Calling`
+> &nbsp; → [View Repository](https://github.com/Meetpatel2306/job-search-agent)
 
 ### 🔭 At work (closed-source, happy to talk through the architecture)
 
